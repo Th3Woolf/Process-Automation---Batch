@@ -1,0 +1,1 @@
+rundll32 printui.dll PrintUIEntry /in /n\\serverprinter\mainprinter
